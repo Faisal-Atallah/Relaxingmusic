@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_activity"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="faisal.atallah.com.relaxingmusic.ReadinMusicOne"
+    tools:showIn="@layout/activity_readin_music_one">
+
+
+
+
+    <fragment
+
+        tools:layout="@layout/content_readin_music_one"
+        tools:ignore="RtlHardcoded"
+        android:name="com.google.android.youtube.player.YouTubePlayerFragment"
+        android:id="@+id/readin_youtube_view_1"
+
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintRight_toRightOf="parent"
+
+
+        />
+
+
+
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

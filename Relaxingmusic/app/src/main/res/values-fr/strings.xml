@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Musique Relaxante</string>
+
+    <string name="action_share">Partager</string>
+
+    <string name="action_rate">Taux</string>
+
+    <string name="title_activity_sleep_music_one">30 Minutes de sommeil profond musique</string>
+
+    <string name="title_activity_sleep_music">Musique pour dormir</string>
+
+    <string name="title_activity_sleep_music_two">1 heure delta waves musique pour dormir</string>
+
+    <string name="title_activity_sleep_music_three">2 heures musique pour rêve lucide</string>
+
+    <string name="title_activity_sleep_music_four">3 heures musique pour le sommeil relaxante</string>
+
+    <string name="title_activity_sleep_musci_five">8 heures musique pour le sommeil relaxante</string>
+
+
+
+
+
+
+    <!--work music strings -->
+
+    <string name="title_activity_work_music">Musique De travail</string>
+
+
+
+    <string name="title_activity_work_music_one">1 Heure De Musique De Travail</string>
+
+
+
+    <string name="title_activity_work_music_two">2 Heure De Musique De Travail</string>
+
+
+
+    <string name="title_activity_work_music_three">3 Heure De Musique De Jazz Et De Musique Instrumentale</string>
+
+
+
+    <string name="title_activity_work_music_four">4 Heure De Jazz Et De Musique De Rossa</string>
+
+
+    <string name="title_activity_work_music_five">10 Heure De Musique De Travail</string>
+
+
+
+    <!-- Baby music strings  -->
+
+    <string name="title_activity_baby_sleep_music">Bébé musique pour dormir</string>
+
+
+    <string name="title_activity_baby_music_one">1 heure de musique de sommeil bébé</string>
+
+    <string name="title_activity_baby_music_two">2 heure de musique de sommeil bébé</string>
+
+    <string name="title_activity_bbay_music_three">3 heure de musique de sommeil bébé</string>
+
+    <string name="title_activity_baby_music_four">4 heure de musique de sommeil bébé</string>
+
+    <string name="title_activity_baby_music_five">8 heure de musique de sommeil bébé</string>
+
+
+
+
+    <!-- Reading music -->
+
+    <string name="title_activity_reading_music">Musique pour la lecture</string>
+
+    <string name="title_activity_readin_music_one">1 heure de lecture musicale</string>
+
+    <string name="title_activity_reading_music_two">2 heure de lecture musicale</string>
+
+    <string name="title_activity_reading_music_three">3 heure de lecture musicale</string>
+
+    <string name="title_activity_reading_music_four">4 heure de lecture musicale</string>
+
+    <string name="title_activity_reading_music_five">6 heure de lecture musicale</string>
+
+
+
+
+    <!--Relaxation music -->
+
+    <string name="title_activity_relaxation_music">Musique de détente</string>
+
+    <string name="title_activity_relaxation_music_one">1 heure de musique de relaxation</string>
+
+    <string name="title_activity_relaxation_music_two">2 heure de musique de relaxation</string>
+
+    <string name="title_activity_relaxation_music_three">3 heure de musique de relaxation</string>
+
+    <string name="title_activity_relaxation_music_four">4 heure de musique de relaxation</string>
+
+    <string name="title_activity_relaxation_music_five">8 heure de musique de relaxation</string>
+
+    <string name="textview">TextView</string>
+
+
+
+    <!--id unit ads-->
+
+    <!--main-->
+    <string name="banner_ad_unit_id">ca-app-pub-1267284177738956/1425213621</string>
+
+
+
+    <!--baby sleep ads-->
+
+
+    <string name="banner_ad_unit_id_two">ca-app-pub-1267284177738956/2064342023</string>
+
+
+    <!-- reading music-->
+    <string name="banner_ad_unit_id_three">ca-app-pub-1267284177738956/3202998021</string>
+
+    <!--relaxation music -->
+    <string name="banner_ad_unit_id_four">ca-app-pub-1267284177738956/7493596826</string>
+
+    <!-- relaxation music -->
+
+    <string name="banner_ad_unit_id_five">ca-app-pub-1267284177738956/2504994028</string>
+
+
+    <!-- work music  -->
+
+    <string name="banner_ad_unit_id_six">ca-app-pub-1267284177738956/9888660024</string>
+
+
+
+
+</resources>

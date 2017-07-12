@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63024338146",
+    "firebase_url": "https://relaxing-music-165410.firebaseio.com",
+    "project_id": "relaxing-music-165410",
+    "storage_bucket": "relaxing-music-165410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63024338146:android:1430e43db6b39af6",
+        "android_client_info": {
+          "package_name": "faisal.atallah.com.relaxingmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63024338146-ghgal9u2kt5udsp7u8jenjrvju7ovicg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "faisal.atallah.com.relaxingmusic",
+            "certificate_hash": "a517955d7f18366686d8a1f8eccf6d446422130f"
+          }
+        },
+        {
+          "client_id": "63024338146-uifgmt76cipflpt942s8p7k28lqniolq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzUTkY5dpQ2fnD3Z6duXuogsvjRYWvGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63024338146-uifgmt76cipflpt942s8p7k28lqniolq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

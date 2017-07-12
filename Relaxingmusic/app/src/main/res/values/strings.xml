@@ -1,0 +1,142 @@
+<resources>
+
+    <string name="app_name">Relaxing Music</string>
+
+
+
+
+
+
+
+    <string name="action_share">Share</string>
+
+    <string name="action_rate">Rate</string>
+
+    <string name="title_activity_sleep_music_one">30 Minute Deep Sleep Music</string>
+
+    <string name="title_activity_sleep_music">Sleep Music</string>
+
+    <string name="title_activity_sleep_music_two">1 Hour Delta Waves Sleep Music</string>
+
+    <string name="title_activity_sleep_music_three">2 Hour Lucid Dreams Sleep Music</string>
+
+    <string name="title_activity_sleep_music_four">3 Hour Relaxing Sleep Music</string>
+
+    <string name="title_activity_sleep_musci_five">8 Hour Relaxing Sleep Music </string>
+
+    <!--work music strings -->
+
+    <string name="title_activity_work_music">Work Music</string>
+
+    <string name="title_activity_work_music_one">1 Hour Work Music</string>
+
+    <string name="title_activity_work_music_two">2 Hour Work Music</string>
+
+    <string name="title_activity_work_music_three">3 Hour Jazz Instrumental Work Music</string>
+
+    <string name="title_activity_work_music_four">4 Hour Jazz and Bossa Work Music</string>
+
+    <string name="title_activity_work_music_five">10 Hour Work Music</string>
+
+    <!-- Baby music strings  -->
+
+    <string name="title_activity_baby_sleep_music">Baby Sleep Music</string>
+
+    <string name="title_activity_baby_music_one">1 Hour Baby Sleep Music</string>
+
+    <string name="title_activity_baby_music_two">2 Hour Baby Sleep Music</string>
+
+    <string name="title_activity_bbay_music_three">3 Hour Baby Sleep Music</string>
+
+    <string name="title_activity_baby_music_four">4 Hour Baby Sleep Music</string>
+
+    <string name="title_activity_baby_music_five">8 Hour Baby Sleep Music</string>
+
+
+    <!-- Reading music -->
+
+    <string name="title_activity_reading_music">Reading Music</string>
+
+    <string name="title_activity_readin_music_one">1 Hour Reading Music</string>
+
+    <string name="title_activity_reading_music_two">2 Hour Reading Music</string>
+
+    <string name="title_activity_reading_music_three">3 Hour Reading Music</string>
+
+    <string name="title_activity_reading_music_four">4 Hour Reading Music</string>
+
+    <string name="title_activity_reading_music_five">6 Hour Reading Music</string>
+
+
+    <!--Relaxation music -->
+
+    <string name="title_activity_relaxation_music">Relaxation Music</string>
+
+    <string name="title_activity_relaxation_music_one">1 Hour Relaxation Music</string>
+
+    <string name="title_activity_relaxation_music_two">2 Hour Relaxation Music</string>
+
+    <string name="title_activity_relaxation_music_three">3 Hour Relaxation Music</string>
+
+    <string name="title_activity_relaxation_music_four">4 Hour Relaxation Music</string>
+
+    <string name="title_activity_relaxation_music_five">8 Hour Relaxation Music</string>
+
+    <string name="textview">TextView</string>
+
+
+
+
+
+
+
+
+
+    <!--id unit ads-->
+
+    <!--main-->
+    <string name="banner_ad_unit_id">ca-app-pub-1267284177738956/1425213621</string>
+
+
+    <!--baby sleep ads-->
+
+
+    <string name="banner_ad_unit_id_two">ca-app-pub-1267284177738956/2064342023</string>
+
+
+    <!-- reading music-->
+    <string name="banner_ad_unit_id_three">ca-app-pub-1267284177738956/3202998021</string>
+
+    <!--relaxation music -->
+    <string name="banner_ad_unit_id_four">ca-app-pub-1267284177738956/7493596826</string>
+
+    <!-- relaxation music -->
+
+    <string name="banner_ad_unit_id_five">ca-app-pub-1267284177738956/2504994028</string>
+
+
+    <!-- work music  -->
+
+    <string name="banner_ad_unit_id_six">ca-app-pub-1267284177738956/9888660024</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="faisal.atallah.com.relaxingmusic">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+
+            </intent-filter>
+
+        </activity>
+
+
+        <activity
+
+            android:name=".SleepMusicOne"
+            android:label="@string/title_activity_sleep_music_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+
+            android:name=".SleepMusic"
+            android:label="@string/title_activity_sleep_music"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <intent-filter android:label="@string/title_activity_sleep_music">
+
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"
+                    android:host="example.com"
+                    android:pathPrefix="/@string/title_activity_sleep_music"/>
+            </intent-filter>
+
+
+        </activity>
+
+
+
+        <activity
+            android:name=".SleepMusicTwo"
+            android:label="@string/title_activity_sleep_music_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+
+            android:name=".SleepMusicThree"
+            android:label="@string/title_activity_sleep_music_three"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+
+            android:name=".SleepMusicFour"
+            android:label="@string/title_activity_sleep_music_four"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+
+            android:name=".SleepMusciFive"
+            android:label="@string/title_activity_sleep_musci_five"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+
+            android:name=".WorkMusic"
+            android:label="@string/title_activity_work_music"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+            <intent-filter android:label="@string/title_activity_work_music">
+
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"
+                    android:host="example.com"
+                    android:pathPrefix="/@string/title_activity_work_music"/>
+            </intent-filter>
+
+        </activity>
+
+
+
+        <activity
+            android:name=".WorkMusicOne"
+            android:label="@string/title_activity_work_music_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WorkMusicTwo"
+            android:label="@string/title_activity_work_music_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WorkMusicThree"
+            android:label="@string/title_activity_work_music_three"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WorkMusicFour"
+            android:label="@string/title_activity_work_music_four"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+        <activity
+            android:name=".WorkMusicFive"
+            android:label="@string/title_activity_work_music_five"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+        <activity
+            android:name=".BabySleepMusic"
+            android:label="@string/title_activity_baby_sleep_music"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+            <intent-filter android:label="@string/title_activity_baby_sleep_music">
+
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"
+                    android:host="example.com"
+                    android:pathPrefix="/@string/title_activity_baby_sleep_music"/>
+            </intent-filter>
+
+
+
+    </activity>
+
+
+        <activity
+            android:name=".BabyMusicOne"
+            android:label="@string/title_activity_baby_music_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".BabyMusicTwo"
+            android:label="@string/title_activity_baby_music_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".BabyMusicThree"
+            android:label="@string/title_activity_bbay_music_three"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".BabyMusicFour"
+            android:label="@string/title_activity_baby_music_four"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".BabyMusicFive"
+            android:label="@string/title_activity_baby_music_five"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+
+        <activity
+            android:name=".ReadingMusic"
+            android:label="@string/title_activity_reading_music"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+            <intent-filter android:label="@string/title_activity_reading_music">
+
+                <action android:name="android.intent.action.VIEW"/>
+                  <category android:name="android.intent.category.DEFAULT"/>
+               <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"
+                    android:host="example.com"
+                    android:pathPrefix="/@string/title_activity_reading_music"/>
+             </intent-filter>
+
+            </activity>
+
+
+
+
+        <activity
+            android:name=".ReadinMusicOne"
+            android:label="@string/title_activity_readin_music_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReadingMusicTwo"
+            android:label="@string/title_activity_reading_music_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReadingMusicThree"
+            android:label="@string/title_activity_reading_music_three"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReadingMusicFour"
+            android:label="@string/title_activity_reading_music_four"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReadingMusicFive"
+            android:label="@string/title_activity_reading_music_five"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+
+        <activity
+
+
+            android:name=".RelaxationMusic"
+            android:label="@string/title_activity_relaxation_music"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <intent-filter android:label="@string/title_activity_relaxation_music">
+
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"
+                    android:host="example.com"
+                    android:pathPrefix="/@string/title_activity_relaxation_music"/>
+            </intent-filter>
+
+        </activity>
+
+
+
+        <activity
+            android:name=".RelaxationMusicOne"
+            android:label="@string/title_activity_relaxation_music_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RelaxationMusicTwo"
+            android:label="@string/title_activity_relaxation_music_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RelaxationMusicThree"
+            android:label="@string/title_activity_relaxation_music_three"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RelaxationMusicFour"
+            android:label="@string/title_activity_relaxation_music_four"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RelaxationMusicFive"
+            android:label="@string/title_activity_relaxation_music_five"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>
